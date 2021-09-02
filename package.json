@@ -1,0 +1,10 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "application.js",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.12.24",
+    "stimulus": "^2.0.0"
+  }
+}
